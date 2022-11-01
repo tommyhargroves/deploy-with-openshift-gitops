@@ -1,5 +1,5 @@
 # Replicas of each application
-replicaCount: 1
+replicaCount: 2
 
 # Domain the application will be served from
 dnsName: hershey-park-dev.apps.dev.taco.moe
