@@ -2,7 +2,7 @@
 replicaCount: 3
 
 # Domain the application will be served from
-dnsName: hershey-park-dev.apps.dev.taco.moe
+dnsName: hershey-park-dev.apps.hub.taco.moe
 
 applications:
   - name: hershey-park-dev
